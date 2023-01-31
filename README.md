@@ -12,5 +12,6 @@
 
 
 #links
-https://json-food.github.io/jfood/food/roasted_vegetable_medley.json
+-https://json-food.github.io/jfood/food/roasted_vegetable_medley.json
+-https://json-food.github.io/jfood/food/chicken_manchurian.json
  
