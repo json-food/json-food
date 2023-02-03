@@ -14,5 +14,5 @@
 # links
 
 [roasted vegeteable medley ](https://json-food.github.io/json-food/food/roasted_vegetable_medley.json)
-[chicken manchurian ] (https://json-food.github.io/json-food/food/chicken_manchurian.json)
+[chicken manchurian ](https://json-food.github.io/json-food/food/chicken_manchurian.json)
  
